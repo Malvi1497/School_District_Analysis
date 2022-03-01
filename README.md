@@ -1,2 +1,2 @@
 # School_District_Analysis
-An analysis of school district trends using PANDAS
+An analysis of district school trends using PANDAS
