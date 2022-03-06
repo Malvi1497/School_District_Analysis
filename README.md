@@ -60,7 +60,7 @@ The analysis was perforemd to show the overall performance for schools based on 
 
 ![School Type Summary](https://user-images.githubusercontent.com/94252681/156942850-faf94777-c784-4839-b7e3-f080389ed379.png)
 
-## Result
+## Observations
 The four major changes that occurred is in the following, 
 * Number of total students, 
 * Number of students counted at Thomas High School, 
@@ -68,4 +68,5 @@ The four major changes that occurred is in the following,
 * Overall percentages for math and reading at Thomas High School
 * Top performing schools
 
+## Results
 The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. The most significant change was the removal of Thomas High Schhol which was initally ranked second performong school with the Overall Passing percentage being 91% to the eight ranking school with the overall passing percentage being 65%.However, these score and percentage changes were minimal hence we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
