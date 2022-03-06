@@ -2,13 +2,14 @@
 An analysis of district school trends using PANDAS in Jupyter Notebook.
 
 ## Overview
-The analysis was performed for the school district on their budget and priorites for a list of 15 schools. The analysis included a comparison of the data provided by the schools to compare various metrics.
+The analysis was performed for the school district on their budget and priorites for a list of 15 schools. The analysis included a comparison of the data provided by the schools to compare various metrics of the schools in the list.
 
 ## Purpose
-The purpose of this project is to compare the various data between schools based on their student size, school type (District vs Charter) and grades. However, thw school district discovered a miscalculation for the ninth grade students at Thomas High School while keeping the other data intact.
+The purpose of this project is to compare the various data between schools based on their student size, school type (District vs Charter) and grades. However, the school district discovered a miscalculation for the grades in the ninth grade students at Thomas High School and hence requesated in a change from the intial analysis. The change requried us to remove the data for the 9th grade and replace it with NaN while keeping the other data intact and to provide the analysis based on the changed dataset.
 
 ## Data
-The data was provided by the school and was compiled into two files with the following data:
+The data was provided by the school and was compiled into two files with the following data: 
+
 ### School Data
 * School ID
 * School_name
