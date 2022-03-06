@@ -61,11 +61,11 @@ The analysis was perforemd to show the overall performance for schools based on 
 ![School Type Summary](https://user-images.githubusercontent.com/94252681/156942850-faf94777-c784-4839-b7e3-f080389ed379.png)
 
 ## Observations
-The four major changes that occurred is in the following, 
+The five significant changes in the analysis that occurred due to the reomval of data from Thomas High School dataset is in the following, 
 * Number of total students, 
 * Number of students counted at Thomas High School, 
 * Average math and reading scores,
-* Overall percentages for math and reading at Thomas High School
+* Overall percentages for math and reading at Thomas High School and 
 * Top performing schools
 
 ## Results
