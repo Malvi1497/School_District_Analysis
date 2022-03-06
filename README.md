@@ -37,9 +37,26 @@ The analysis was sorted to get the five top and bottom performing schools based 
 
 ![Top and bottom performing schools](https://user-images.githubusercontent.com/94252681/156942198-500fc1f4-06ac-432b-bfcd-47eaf6bc4745.png)
 
-The analysis was then performed to give the average math and reading scores per school.
+The analysis was then performed to give the average math and reading scores per school and the scores for Thomas High School was replaced with NaN while keeping the data for the other grades intact.
 
-![Average Math Score](https://user-images.githubusercontent.com/94252681/156942414-725257b7-0316-4454-879f-1d418cf488c1.png)
+Average math scores per school
+
+![Average Math Score](https://user-images.githubusercontent.com/94252681/156942414-725257b7-0316-4454-879f-1d418cf488c1.png) 
+
+Average reading scores per school
+
 ![Average Reading Score](https://user-images.githubusercontent.com/94252681/156942423-da4dd3b0-1eb7-4af6-94e2-2d7823940565.png)
 
+The analysis was performed to show the overall performance of schools based on their spending summary.
+
+![Spending Summary](https://user-images.githubusercontent.com/94252681/156942717-19213e56-8805-457f-bceb-921f2bdd14e9.png)
+
+
+The analysis was perforemd to show the overall performance for schools based on their size or number of students.
+
+![School Size Summary](https://user-images.githubusercontent.com/94252681/156942777-4ee460c2-25ef-46c4-9b2d-84298bc996bf.png)
+
+The analysis was perforemd to show the overall performance for schools based on their school type (District vs Charter).
+
+![School Type Summary](https://user-images.githubusercontent.com/94252681/156942850-faf94777-c784-4839-b7e3-f080389ed379.png)
 
